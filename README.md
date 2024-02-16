@@ -2,7 +2,7 @@
 
 ## TollStationApplication
 
-A simple Java application implemented using **Spring Boot 3.x** and **Spring-Cloud (Netflix Eureka)**, that can be used in Toll-Stations for displaying toll rates and collecting tolls using Fast-Pass or Cash.
+A simple Java application implemented with **Microservices Architecture** using **Spring Boot 3.x** and **Spring-Cloud (Netflix Eureka)**, that can be used in Toll-Stations for displaying toll rates and collecting tolls using Fast-Pass or Cash.
 
 ## Application Architecture
 
